@@ -1,0 +1,4 @@
+
+def factors(num)
+    
+end
